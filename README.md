@@ -1,2 +1,3 @@
-# Template
-Template for abapGit CI Tests
+# WDYN_abap
+
+Web Dynpro with separate ABAP files for controllers
